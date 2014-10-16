@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[baa:home|Door43 (baa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-baa|d43-baa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-baa/archive/master.zip|d43-baa.zip]]
+
+**Recent Changes**
+{{changes>ns = baa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/baa|Ethnologue data]]
+
